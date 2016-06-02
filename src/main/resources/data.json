@@ -1,0 +1,12 @@
+"foo": {
+    "abc": {
+        "prop1": "blabla11";
+        "prop2": "blabla12";
+        "prop3": "blabla13";
+     },
+     "bcd": {
+        "prop1": "blabla21";
+        "prop2": "blabla22";
+        "prop3": "blabla23";
+     }
+}
