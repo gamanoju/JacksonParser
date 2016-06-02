@@ -1,4 +1,4 @@
 Example of a Jackson parser
 ===
 
-Created as an example for StackOverflow answer.
+Created as an example for a StackOverflow answer.
